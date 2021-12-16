@@ -1,4 +1,4 @@
-# scroll-snap-practice-reactJS-and-typescript
+# practice-scrollsnapreact
 
 Praticando um pouco de scroll-snap com react.js e typescript.
 
